@@ -21,4 +21,4 @@ Viewing belly button bacteria data is informative but, visualizing that data giv
   
 
 - References
-  - samples.json. (2022). Сurrent weather and forecast. Retrieved from https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
+  - NC State, The Public Science Lab. (2017). Belly Button Data Sets. Retrieved from http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
