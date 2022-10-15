@@ -18,7 +18,6 @@ Viewing belly button bacteria data is informative but, visualizing belly button 
 
 - Visit the final form here: 
   - https://sajeanpage.github.io/module_14_belly_button_challenge/
-# ![banner](https://github.com/sajeanpage/module_11_web_design_challenge/blob/main/assets/images/weather_banner.PNG)
-
+# ![banner](images/belly.PNG)
 - References
   - OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from https://openweathermap.org
