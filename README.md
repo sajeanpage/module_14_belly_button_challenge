@@ -2,6 +2,10 @@
 ## Summary
 
 Viewing belly button bacteria data is informative but, visualizing that data gives a perspective of diversity and scale that viewing data can not. In this challenge I built an interactive web page that allows viewers to easily visualizing belly button bacteria data.  
+
+- Visit the final form here: 
+  - https://sajeanpage.github.io/module_14_belly_button_challenge/
+
 - The site contains:
   - a responsive home page with a drop down menu of test subjects
   - a demographic panel for a selected subject
@@ -15,9 +19,7 @@ Viewing belly button bacteria data is informative but, visualizing that data giv
   - Plotly js library
   - Javascript
   - Github Pages
-
-- Visit the final form here: 
-  - https://sajeanpage.github.io/module_14_belly_button_challenge/
+  
 # ![banner](images/belly.PNG)
 - References
   - samples.json. (2022). Сurrent weather and forecast. Retrieved from https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
